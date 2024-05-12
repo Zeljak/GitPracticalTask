@@ -1,0 +1,7 @@
+#no .db, .log files
+*.log
+*.db
+
+target/
+
+bin/
